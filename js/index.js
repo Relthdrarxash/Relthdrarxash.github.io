@@ -17,7 +17,7 @@ function go()
 {
 	cpt = -1;
 	document.getElementById("txt").innerHTML="";
-	setTimeout("display()",100);
+	setTimeout("display()",200);
 }
 
 go()
