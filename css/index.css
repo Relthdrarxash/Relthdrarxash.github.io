@@ -7,7 +7,7 @@ a {
     color:white; 
 }
 pre {
-    font: 16px "blockfont", Verdana, sans-serif;
+    font: 16px "blockfont", 'Courier New', sans-serif;
     -webkit-font-smoothing : none;
     font-smooth: never;
     color: #eeeeee;
