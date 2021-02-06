@@ -12,18 +12,6 @@ pre {
     font-smooth: never;
     color: #eeeeee;
 }
-.red {
-    color: #990000;
-}
-.green {
-    color: #009900;
-}
-canvas {
-    display:block;
-    background: black;
-    position: fixed;
-    z-index: -1;
-}
 #content {
     position: absolute;
 }
