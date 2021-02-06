@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    background: black;
+    color: white;
+}
+a { 
+    color:white; 
+}
+pre {
+    font: 16px "blockfont", Verdana, sans-serif;
+    -webkit-font-smoothing : none;
+    font-smooth: never;
+    color: #eeeeee;
+}
+.red {
+    color: #990000;
+}
+.green {
+    color: #009900;
+}
+canvas {
+    display:block;
+    background: black;
+    position: fixed;
+    z-index: -1;
+}
+#content {
+    position: absolute;
+}
+.container {
+    min-height: 85vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    vertical-align: middle;
+}
